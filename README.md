@@ -10,9 +10,9 @@ A minimal stablecoin protocol built with Anchor on Solana. Users deposit SOL as 
 
 ### Setup
 ```bash
-git clone <this-repo>
+git clone https://github.com/AllenGeorge08/AlgorithmicStablecoin.git
 cd stablecoin
-yarn install
+npm install
 ```
 
 ### Build
