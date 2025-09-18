@@ -26,7 +26,7 @@ anchor test
 ```
 If you encounter Node module resolution issues, run a clean install:
 ```bash
-rm -rf node_modules yarn.lock && npm install
+rm -rf node_modules package-lock.json && npm install
 ```
 
 ## Program Instructions
